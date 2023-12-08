@@ -2,7 +2,7 @@
 
 ## Description
 
-This Jupyter Notebook provides a guide on how to handle longer sequences using a sliding window approach with the Hugging Face Transformers library. When working with Transformer models, there is often a maximum token limit that the model can accept, and longer sequences may need to be split into smaller chunks. The sliding window approach is a technique to process longer sequences by sliding a window of fixed size through the input.
+This Jupyter Notebook provides a guide on how to handle longer sequences using a sliding window approach with the Hugging Face Transformers library. When working with Transformer models, there is often a maximum token limit that the model can accept, and longer sequences may need to be split into smaller chunks. The sliding window approach is a technique to process longer sequences by sliding a fixed size window through the input.
 
 ## Conclusion
 
